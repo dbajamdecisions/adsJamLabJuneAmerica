@@ -1,0 +1,9 @@
+{
+  "name" : "decisions/Client-Onboarding/OPS1622480530499",
+  "type" : "OPS",
+  "description" : "",
+  "mlUrl" : "http://ads-ml-service-service-ads-ml-service.cp4ba-jam-americas-464887bc828751e1b00625ca9211fbca-0000.us-south.containers.appdomain.cloud",
+  "authUrl" : "",
+  "instanceId" : "",
+  "apiKey" : null
+}
